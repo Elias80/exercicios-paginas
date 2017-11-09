@@ -1,0 +1,22 @@
+.container {
+	background: #eee;
+	max-width: 450px;
+	margin: 50px auto;
+	padding: 5px 20px 20px;
+	}
+.menu{
+	text-align: center;
+
+}
+.menu ul {
+	padding: 0;
+}
+.menu li {
+	display: inline;
+	margin: 0 5px;
+}
+.menu a{
+	background: #ddd;
+	display: inline-block;
+	padding: 20px;
+}
